@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RellenaFormActivity!</string>
+    <string name="app_name">PruebaSpinners</string>
+    <string name="Instrucciones">Selecciona de los Spinner y pulsa mostrar</string>
+    <string name="Bienvenida">YUyi gives you a handsake!</string>
+    <string name="Descripcion">Esta aplicación es para probar Spinner, los 2 que ves aqui se han hecho de 2 formas distintas.</string>
+    <string name="TitleDescripcion">Descripción:</string>
+    <string name="TitleInstrucciones">Instrucciones:</string>
+    <string name="LabelPruebaBorrar">Prueba</string>
+    <string name="TextBorrar">Esto es una prueba, esta zona tiene que ser borrada</string>
+    <string name="Mostrar">Mostrar</string>
+    <string name="LabelSpinner1">Spinner 1: Elige planeta</string>
+    <string name="LabelSpinner2">Spinner 2: Elige operaciones</string>
+
+</resources>

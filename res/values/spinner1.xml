@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="prueba_spinner">Elige un planeta</string>
+    <string-array name="planets_array">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+         <item>Marte</item>
+          <item>Jupiter</item>
+           <item>Saturno</item>
+            <item>Urano</item>
+             <item>Neptuno</item>
+              <item>Plutón</item>
+            
+       
+    </string-array>
+   
+
+</resources>
